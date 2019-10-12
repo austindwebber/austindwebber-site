@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning to Automate the Creation of PowerShell Scripts Part I (CLI)
-image: /img/ps.png
+image: /img/ps.jpg
 ---
 
 ## Learning to Automate the Creation of PowerShell Scripts Part I (CLI)
