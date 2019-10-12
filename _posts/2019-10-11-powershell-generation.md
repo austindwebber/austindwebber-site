@@ -4,7 +4,7 @@ title: Learning to Automate the Creation of PowerShell Scripts Part I (CLI)
 image: /img/ps.jpg
 ---
 
-## Learning to Automate the Creation of PowerShell Scripts Part I (CLI)
+## Learning to Automate the Creation of PowerShell Scripts
 
 When I was first introduced to packaging applications, I was creating Batch files and already knew most of the basic commands. I decided to begin learning PowerShell since it was increasing in popularity. I watched a few tutorials on Lynda (LinkedIn Learning) and learned the basic syntax.
 
